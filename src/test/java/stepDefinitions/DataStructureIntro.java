@@ -10,7 +10,8 @@ public class DataStructureIntro {
 	@Given("The user is in the {string} page ")
 	public void the_user_is_in_the_page(String string) {
 	    
-		System.out.println("DATA");
+		
+		
 	}
 
 	
